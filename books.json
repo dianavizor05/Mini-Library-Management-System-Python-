@@ -1,0 +1,99 @@
+{
+    "books": [
+        {
+            "title": "Ogniem i mieczem",
+            "author": "Henryk Sienkiewicz",
+            "year": 1884,
+            "copies": 2
+        },
+        {
+            "title": "Lalka",
+            "author": "Bolesław Prus",
+            "year": 1890,
+            "copies": 3
+        },
+        {
+            "title": "Pan Tadeusz",
+            "author": "Adam Mickiewicz",
+            "year": 1834,
+            "copies": 1
+        },
+        {
+            "title": "Zbrodnia i kara",
+            "author": "Fiodor Dostojewski",
+            "year": 1866,
+            "copies": 2
+        },
+        {
+            "title": "Mały Książę",
+            "author": "Antoine de Saint-Exupéry",
+            "year": 1943,
+            "copies": 4
+        },
+        {
+            "title": "W pustyni i w puszczy",
+            "author": "Henryk Sienkiewicz",
+            "year": 1911,
+            "copies": 2
+        },
+        {
+            "title": "Quo Vadis",
+            "author": "Henryk Sienkiewicz",
+            "year": 1896,
+            "copies": 2
+        },
+        {
+            "title": "Dziady",
+            "author": "Adam Mickiewicz",
+            "year": 1823,
+            "copies": 1
+        },
+        {
+            "title": "Ferdydurke",
+            "author": "Witold Gombrowicz",
+            "year": 1937,
+            "copies": 2
+        },
+        {
+            "title": "Kamienie na szaniec",
+            "author": "Aleksander Kamiński",
+            "year": 1943,
+            "copies": 3
+        }
+    ],
+    "people": [
+        {
+            "name": "Jan Kowalski",
+            "borrowed_books": [
+                "Ogniem i mieczem",
+                "Lalka"
+            ]
+        },
+        {
+            "name": "Anna Nowak",
+            "borrowed_books": [
+                "Mały Książę"
+            ]
+        },
+        {
+            "name": "Piotr Zieliński",
+            "borrowed_books": [
+                "Zbrodnia i kara",
+                "Dziady"
+            ]
+        },
+        {
+            "name": "Maria Wiśniewska",
+            "borrowed_books": [
+                "Pan Tadeusz"
+            ]
+        },
+        {
+            "name": "Katarzyna Wójcik",
+            "borrowed_books": [
+                "Kamienie na szaniec",
+                "Quo Vadis"
+            ]
+        }
+    ]
+}
